@@ -1,1 +1,3 @@
-# Ruby---OPP
+# Ruby-OPP
+
+Ruby learning from Launch School.
